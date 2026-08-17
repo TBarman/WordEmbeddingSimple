@@ -1,0 +1,12 @@
+*.pt
+*.pth
+word2vec_model.pt
+text8
+text8.zip
+*.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
+vocab.pkl
+ptbdataset.zip
